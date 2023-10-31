@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mpedemontedev/static/css/main.e2add4ff.css",
+    "main.js": "/mpedemontedev/static/js/main.df78009f.js",
+    "static/js/787.a5f55155.chunk.js": "/mpedemontedev/static/js/787.a5f55155.chunk.js",
+    "static/media/bghome.gif": "/mpedemontedev/static/media/bghome.5213c1373bb48ea16b4c.gif",
+    "static/media/bg3.gif": "/mpedemontedev/static/media/bg3.2db828891d8a375dc247.gif",
+    "static/media/foto3.jpg": "/mpedemontedev/static/media/foto3.9cef29d4320e1f8fe3c8.jpg",
+    "static/media/bg4.jpg": "/mpedemontedev/static/media/bg4.a0c3f7cacbf9151ad5bc.jpg",
+    "static/media/mp6.png": "/mpedemontedev/static/media/mp6.bdcb628d92a9059d2e69.png",
+    "index.html": "/mpedemontedev/index.html",
+    "main.e2add4ff.css.map": "/mpedemontedev/static/css/main.e2add4ff.css.map",
+    "main.df78009f.js.map": "/mpedemontedev/static/js/main.df78009f.js.map",
+    "787.a5f55155.chunk.js.map": "/mpedemontedev/static/js/787.a5f55155.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2add4ff.css",
+    "static/js/main.df78009f.js"
+  ]
+}
